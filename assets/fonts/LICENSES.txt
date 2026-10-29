@@ -1,0 +1,8 @@
+Fonts are self-hosted so no visitor data goes to a font service.
+
+ET Book (et-book-*.woff2): from https://github.com/edwardtufte/tufte-css, MIT License,
+converted from TTF to WOFF2. Designed by Dmitry Krasny, Bonnie Scranton and Edward Tufte.
+
+Schibsted Grotesk (schibsted-grotesk.woff2): Copyright 2023 The Schibsted-Grotesk Project
+Authors (https://github.com/schibsted/schibsted-grotesk). SIL Open Font License 1.1.
+Latin subset, variable weight, from @fontsource-variable/schibsted-grotesk.
